@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T05:39:10.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="TqCpZszpa4mQu26WEnzP" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T05:43:28.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="gLdeDJAN9eMv2NIDqBvv" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -27,22 +27,25 @@
         <mxCell id="zm9lEg3LhOqDewew7fIp-2" value="&lt;span&gt;预处理原始数据&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
           <mxGeometry width="380" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="zm9lEg3LhOqDewew7fIp-3" value="对应的UPDM类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
-          <mxGeometry x="102.82" y="390" width="166.22" height="25.64" as="geometry" />
+        <mxCell id="zm9lEg3LhOqDewew7fIp-3" value="定义原有类型与UPDM类型的对应关系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
+          <mxGeometry x="102.82" y="380" width="166.22" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-17" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" edge="1" parent="zm9lEg3LhOqDewew7fIp-4" source="zm9lEg3LhOqDewew7fIp-16" target="zm9lEg3LhOqDewew7fIp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-16" value="单一图层包含多个&lt;br&gt;UPDM结构下的图层" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
-          <mxGeometry x="98.7535294117647" y="260.004358974359" width="174.35294117647058" height="77.94871794871794" as="geometry" />
+          <mxGeometry x="98.7535294117647" y="246.024358974359" width="174.35294117647058" height="77.94871794871794" as="geometry" />
+        </mxCell>
+        <mxCell id="zm9lEg3LhOqDewew7fIp-26" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="zm9lEg3LhOqDewew7fIp-4" source="zm9lEg3LhOqDewew7fIp-20" target="zm9lEg3LhOqDewew7fIp-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-20" value="确定类型字段" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
           <mxGeometry x="102.81999999999994" y="40" width="166.22" height="25.64" as="geometry" />
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-23" value="多个字段确定类型" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
-          <mxGeometry x="102.82352941176474" y="90.00435897435898" width="174.35294117647058" height="77.94871794871794" as="geometry" />
+          <mxGeometry x="102.82" y="90" width="174.35" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zm9lEg3LhOqDewew7fIp-24" value="归并至一个字段" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
+        <mxCell id="zm9lEg3LhOqDewew7fIp-24" value="归并至一个字段？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="zm9lEg3LhOqDewew7fIp-4">
           <mxGeometry x="128.45" y="190" width="123.11" height="25.64" as="geometry" />
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zm9lEg3LhOqDewew7fIp-7" target="zm9lEg3LhOqDewew7fIp-11">
@@ -59,12 +62,6 @@
         </mxCell>
         <mxCell id="zm9lEg3LhOqDewew7fIp-14" value="主键，assetgroup、" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zm9lEg3LhOqDewew7fIp-18" value="" style="endArrow=none;dashed=1;html=1;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="370" as="sourcePoint" />
-            <mxPoint x="370" y="320" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
