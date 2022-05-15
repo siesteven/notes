@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T03:04:59.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="qQOiHwUbQUmVz3_hb7VI" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T03:12:57.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="r2Gxf4gBkGrMsdDrzEvL" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2211" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,25 +11,19 @@
           <mxGeometry x="80" y="120" width="730" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-2" value="安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;认&lt;br&gt;证&lt;br&gt;服&lt;br&gt;务&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;证&lt;br&gt;书" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=19;fontFamily=Helvetica;textDirection=ltr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="821" y="210" width="40" height="570" as="geometry" />
+          <mxGeometry x="1060" y="220" width="40" height="570" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-3" value="安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;认&lt;br&gt;证&lt;br&gt;服&lt;br&gt;务&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;证&lt;br&gt;书" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=19;fontFamily=Helvetica;textDirection=ltr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="871" y="210" width="40" height="570" as="geometry" />
+          <mxGeometry x="1110" y="220" width="40" height="570" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-4" value="安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;认&lt;br&gt;证&lt;br&gt;服&lt;br&gt;务&lt;br&gt;&lt;br&gt;安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;证&lt;br&gt;书" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=19;fontFamily=Helvetica;textDirection=ltr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="921" y="210" width="40" height="570" as="geometry" />
+          <mxGeometry x="1160" y="220" width="40" height="570" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="350" width="730" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="DmL_3A4xrGfxJaud39s4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="640" width="730" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="DmL_3A4xrGfxJaud39s4-7" value="基&lt;br&gt;础&lt;br&gt;设&lt;br&gt;施&lt;br&gt;层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="646.25" width="100" height="157.5" as="geometry" />
+          <mxGeometry x="80" y="350" width="930" height="450" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-10" value="共&lt;br&gt;享&lt;br&gt;服&lt;br&gt;务&lt;br&gt;层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="410" width="100" height="160" as="geometry" />
+          <mxGeometry x="60" y="495" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DmL_3A4xrGfxJaud39s4-11" value="业&lt;br&gt;务&lt;br&gt;应&lt;br&gt;用&lt;br&gt;层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="150" width="100" height="160" as="geometry" />
@@ -37,14 +31,35 @@
         <mxCell id="DmL_3A4xrGfxJaud39s4-12" value="天然气安全管理综合平台" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="120" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DmL_3A4xrGfxJaud39s4-13" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="660" width="640" height="40" as="geometry" />
+        <mxCell id="DmL_3A4xrGfxJaud39s4-16" value="PaaS云平台&lt;br&gt;镜像中心、服务部署、动态伸缩、容器及平台监控、滚动升级、通用PaaS服务" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="710" width="790" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DmL_3A4xrGfxJaud39s4-14" value="移动网络；IoT网络；传感器接入网络" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="710" width="640" height="40" as="geometry" />
+        <mxCell id="DmL_3A4xrGfxJaud39s4-18" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="810" width="930" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="DmL_3A4xrGfxJaud39s4-15" value="管道压力；实时工艺数据；场站、高后果区视频；调抢实时视频" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="760" width="640" height="40" as="geometry" />
+        <mxCell id="DmL_3A4xrGfxJaud39s4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;align=left;" vertex="1" parent="DmL_3A4xrGfxJaud39s4-18">
+          <mxGeometry x="24.8" width="905.2" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-7" value="基&lt;br&gt;础&lt;br&gt;设&lt;br&gt;施&lt;br&gt;层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="DmL_3A4xrGfxJaud39s4-18">
+          <mxGeometry y="6.25" width="124" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-13" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="DmL_3A4xrGfxJaud39s4-18">
+          <mxGeometry x="111.6" y="20" width="793.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-14" value="移动网络；IoT网络；传感器接入网络" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="DmL_3A4xrGfxJaud39s4-18">
+          <mxGeometry x="111.6" y="70" width="793.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-15" value="管道压力；实时工艺数据；场站、高后果区视频；调抢实时视频" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="DmL_3A4xrGfxJaud39s4-18">
+          <mxGeometry x="111.6" y="120" width="793.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="540" width="790" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据&lt;br style=&quot;&quot;&gt;采集&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="595" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="DmL_3A4xrGfxJaud39s4-22" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;统一终端接入与数据采集&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="612.5" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
